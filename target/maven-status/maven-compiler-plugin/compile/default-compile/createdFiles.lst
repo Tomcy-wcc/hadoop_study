@@ -1,0 +1,9 @@
+com\yc\mapreduce\grossscore\GrossScoreMap.class
+com\yc\mapreduce\ipdistinct\IPDistinctReduce.class
+com\yc\mapreduce\wordcount\WordCountReduce.class
+com\yc\mapreduce\ipdistinct\IPDistinctDriver.class
+com\yc\mapreduce\wordcount\WordCountDriver.class
+com\yc\mapreduce\wordcount\WordCountMap.class
+com\yc\mapreduce\ipdistinct\IPDistinckMap.class
+com\yc\mapreduce\grossscore\GrossScoreReduce.class
+com\yc\mapreduce\grossscore\GrossScoreDriver.class
